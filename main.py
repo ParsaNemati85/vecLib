@@ -1,7 +1,5 @@
-import warnings
 import vectors
 
-warnings.filterwarnings('error')
 
 
 def main():

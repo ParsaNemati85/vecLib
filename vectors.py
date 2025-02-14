@@ -1,6 +1,5 @@
 import math
 
-from qtconsole.rich_text import export_xhtml
 
 
 class Vector(object):
